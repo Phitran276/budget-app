@@ -198,7 +198,7 @@ const UIController = (function () {
                <div class="item__value">${formatCurrency(item.value, 'exp')}</div>
                <div class="item__percentage">21%</div>
                <div class="item__delete">
-                   <button class="item__delete--btn"><i class="ion-ios-close-outline"></i></button>
+                   <button class="item__delete--btn"><i class="fa fa-times-circle"></i></i></button>
                </div>
            </div>
            </div>
